@@ -1,8 +1,8 @@
 ## IGDRion Long Read (LR) sequencing with Nanopore Repo  👋
 
-Presenting the repositories for tools used/developed by the [Long Read sequencing facility](https://igdr.univ-rennes1.fr/igdrion) @ [IGDR](https://igdr.univ-rennes1.fr/).
+Presenting the repositories for tools used/developed by the [Long Read sequencing facility](https://igdr.univ-rennes.fr/igdrion) @ [IGDR](https://igdr.univ-rennes.fr/).
 
-For informations about specific projects (sequencing data, primary analysis, ...), see the dedicated *private* [GitLab webpage](https://gitlab.com/bioinfog/nanopore).
+For informations about specific projects (sequencing data, primary analysis, seccondary analysis...), see the dedicated *private* [GitLab webpage](https://gitlab.com/bioinfog/nanopore).
 
 
 ### Contacts 
