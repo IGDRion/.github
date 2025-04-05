@@ -5,10 +5,6 @@ Presenting the repositories for tools used/developed by the [Long Read sequencin
 For informations about specific projects (sequencing data, primary analysis, seccondary analysis...), see the dedicated *private* [GitLab webpage](https://gitlab.com/bioinfog/nanopore).
 
 
-### Contacts 
-
-* Edouard CADIEU : edouard.cadieu@univ-rennes1.fr
-* Thomas DERRIEN : thomas.derrien@univ-rennes1.fr
 
 <!--
 
